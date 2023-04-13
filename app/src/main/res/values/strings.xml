@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prova</string>
+    <string name="m_s_do_anivers_rio">Mês do aniversário</string>
+    <string name="dia_do_anivers_rio">Dia do aniversário</string>
+    <string name="calcular">Calcular</string>
+    <string name="todo">TODO</string>
+</resources>
